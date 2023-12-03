@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/jereposteria/static/css/main.8e9df306.css",
+    "main.js": "/jereposteria/static/js/main.e345fdf2.js",
+    "static/js/787.752db88f.chunk.js": "/jereposteria/static/js/787.752db88f.chunk.js",
+    "static/media/sgbg.png": "/jereposteria/static/media/sgbg.5360811fb781cad7b7b2.png",
+    "static/media/gbg.png": "/jereposteria/static/media/gbg.0e6a5a52eb81c34b663a.png",
+    "static/media/arg.jpg": "/jereposteria/static/media/arg.edafe12325345869c58e.jpg",
+    "static/media/mundial.jpg": "/jereposteria/static/media/mundial.8db903de26bb91945e50.jpg",
+    "static/media/plimplim.jpg": "/jereposteria/static/media/plimplim.e56abfa2e674f68bbb9b.jpg",
+    "static/media/casamiento.jpg": "/jereposteria/static/media/casamiento.89301c307844bfb830c0.jpg",
+    "static/media/policia.jpg": "/jereposteria/static/media/policia.ed53910719dcaea74d85.jpg",
+    "static/media/mesadulce.jpg": "/jereposteria/static/media/mesadulce.72a3a02ed21e7188de0e.jpg",
+    "static/media/logo.jpg": "/jereposteria/static/media/logo.0ca1eb34997c9b480432.jpg",
+    "static/media/flier.jpg": "/jereposteria/static/media/flier.655d58f4cef24b6d0c72.jpg",
+    "static/media/favicon.ico": "/jereposteria/static/media/favicon.297afe2ae2e24d3cffc3.ico",
+    "static/media/Thesignature.otf": "/jereposteria/static/media/Thesignature.2275572967a1d6158dd8.otf",
+    "static/media/reloj.png": "/jereposteria/static/media/reloj.b0d434b4405d71c2d825.png",
+    "static/media/ubicacion.png": "/jereposteria/static/media/ubicacion.ed293f4e627013c29c1f.png",
+    "index.html": "/jereposteria/index.html",
+    "static/media/lineadivision.webp": "/jereposteria/static/media/lineadivision.330e555d81bca4687ed1.webp",
+    "main.8e9df306.css.map": "/jereposteria/static/css/main.8e9df306.css.map",
+    "main.e345fdf2.js.map": "/jereposteria/static/js/main.e345fdf2.js.map",
+    "787.752db88f.chunk.js.map": "/jereposteria/static/js/787.752db88f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e9df306.css",
+    "static/js/main.e345fdf2.js"
+  ]
+}
